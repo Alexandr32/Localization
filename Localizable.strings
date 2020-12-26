@@ -1,0 +1,20 @@
+"meal1_name" = "Breakfast";
+"meal2_name" = "Brunch";
+"meal3_name" = "Lunch";
+"meal4_name" = "Dinner";
+"meal5_name" = "Supper";
+
+"meal_status_next" = "Next";
+"meal_status_missed" = "Missed";
+"meal_status_vin" = "Done";
+
+"delete_record" = "Delete";
+
+"description" = "Description";
+
+"cancel" = "Cancel";
+"add" = "";
+"edit" = "";
+"name" = "Name";
+"time" = "Time";
+"meal_win" = "Do";

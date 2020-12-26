@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_add" translatable="false">AddActivity</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+    <string name="title_activity_about_app" translatable="false">AboutAppActivity</string>
+
+    <string name="app_name">Meal Reminder</string>
+    <string name="edit_startApp_settings">Screen saver when you start the app</string>
+
+    <string name="settings">Settings</string>
+    <string name="aboutApp">About the app</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="meal_status_next">Next</string>
+    <string name="meal_status_missed">Missed</string>
+    <string name="meal_status_vin">Done</string>
+    <string name="text_no_time">Time should be set after the previous meal</string>
+    <string name="entry_del">Deleted</string>
+    <string name="delete_record">Delete</string>
+    <string name="open">Open</string>
+    <string name="alllist">The whole list</string>
+
+    <string name="datatime">Date and time</string>
+    <string name="time">Time</string>
+
+    <string name="meal1_name">Breakfast</string>
+    <string name="meal2_name">Brunch</string>
+    <string name="meal3_name">Lunch</string>
+    <string name="meal4_name">Dinner</string>
+    <string name="meal5_name">Supper</string>
+
+    <string name="meal1_img">1</string>
+    <string name="meal2_img">2</string>
+    <string name="meal3_img">3</string>
+    <string name="meal4_img">4</string>
+    <string name="meal5_img">5</string>
+
+    <string name="meal1_color">0</string>
+    <string name="meal2_color">0</string>
+    <string name="meal3_color">0</string>
+    <string name="meal4_color">0</string>
+    <string name="meal5_color">0</string>
+
+    <string name="meal1_hour">8</string>
+    <string name="meal2_hour">10</string>
+    <string name="meal3_hour">13</string>
+    <string name="meal4_hour">17</string>
+    <string name="meal5_hour">19</string>
+
+    <string name="meal1_minut">0</string>
+    <string name="meal2_minut">0</string>
+    <string name="meal3_minut">0</string>
+    <string name="meal4_minut">30</string>
+    <string name="meal5_minut">0</string>
+
+    <string name="meal1_time">8:00</string>
+    <string name="meal2_time">10:00</string>
+    <string name="meal3_time">13:00</string>
+    <string name="meal4_time">17:30</string>
+    <string name="meal5_time">19:00</string>
+
+    <string name="meal1_status">Next</string>
+    <string name="meal2_status">Next</string>
+    <string name="meal3_status">Next</string>
+    <string name="meal4_status">Next</string>
+    <string name="meal5_status">Next</string>
+
+    <string name="meal1_alarmInfo">1</string>
+    <string name="meal2_alarmInfo">1</string>
+    <string name="meal3_alarmInfo">1</string>
+    <string name="meal4_alarmInfo">1</string>
+    <string name="meal5_alarmInfo">1</string>
+
+    <string name="meal1_vibro">1</string>
+    <string name="meal2_vibro">1</string>
+    <string name="meal3_vibro">1</string>
+    <string name="meal4_vibro">1</string>
+    <string name="meal5_vibro">1</string>
+
+    <string name="meal1_sound">1</string>
+    <string name="meal2_sound">1</string>
+    <string name="meal3_sound">1</string>
+    <string name="meal4_sound">1</string>
+    <string name="meal5_sound">1</string>
+
+    <string name="meal1_stat">1</string>
+    <string name="meal2_stat">1</string>
+    <string name="meal3_stat">1</string>
+    <string name="meal4_stat">1</string>
+    <string name="meal5_stat">1</string>
+
+    <string name="meal_id1">1</string>
+    <string name="meal_id2">2</string>
+    <string name="meal_id3">3</string>
+    <string name="meal_id4">4</string>
+    <string name="meal_id5">5</string>
+
+
+    <array name="ddc">
+        <item name="meal1_sound">1</item>
+        <item name="meal2_sound">1</item>
+        <item name="meal3_sound">1</item>
+        <item name="meal4_sound">1</item>
+        <item name="meal5_sound">1</item>
+    </array>
+
+    <string name="edit_sound_settings">Sound notification</string>
+    <string name="edit_vibro_settings">Vibration notification</string>
+
+    <string name="day_of_the_week">The first day of the week</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">T</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+    <string name="sunday">S</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    <string name="sunday_oneday">Sunday</string>
+    <string name="monday_oneday">Monday</string>
+    <string name="saturday_oneday">Saturday</string>
+    <string-array name="one_day">
+        <item>@string/sunday_oneday</item>
+        <item>@string/monday_oneday</item>
+        <item>@string/saturday_oneday</item>
+    </string-array>
+    <string-array name="entry_one_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="calendar">Calendar</string>
+
+    <string name="settings_notif">Type of notification</string>
+    <string name="settings_notif1">Alarm clock notification</string>
+    <string name="settings_notif2">Simple notifications</string>
+
+    <string-array name="notifi">
+        <item>@string/settings_notif1</item>
+        <item>@string/settings_notif2</item>
+    </string-array>
+    <string-array name="entry_notifi">
+        <item>notifi1</item>
+        <item>notifi2</item>
+    </string-array>
+
+    <string name="name">Name</string>
+    <string name="ringtone_preference">Ringtone settings</string>
+    <string name="reminder">Reminder</string>
+    <string name="time_win">It"'"s time to eat!</string>
+    <string name="meal_win">Do</string>
+    <string name="miss">Skip</string>
+    <string name="appetit">Bon Appetit!</string>
+    <string name="thank">Thank you!</string>
+    <string name="сhange">Change</string>
+    <string name="large_text">
+        Meal reminder application will help you to follow the diet you have chosen, reminding you
+        about eating at the right time. The application will create several reminders and help you
+        track the time of food intake by days, show the days of reception in the calendar.
+        In the settings you can choose the type of notification that suits you best, simple notifications
+        or an alarm window with playback of the installed ringtone.
+        App meal reminder for people who follow a diet or want to start eating several times a day.
+    </string>
+
+    <string name="about_app_text">There may be inaccuracies in the translation of the application!
+        If you find a mistake, write us in the comments. If your language is not available please
+        write to us, we will translate the application into your language. Thank you.</string>
+
+
+    <string name="linkApp21day" translatable="false">https://play.google.com/store/apps/details?id=ru.appdevelopers.a21day</string>
+    <string name="linkAppVitaminReminder" translatable="false">https://play.google.com/store/apps/details?id=ru.appdevelopers.reminderofvitamins</string>
+
+    <string name="close">Close</string>
+
+    <string name="hour_24_time_format">24-hour time format</string>
+
+    <string name="edit_question_1">Want to edit something? View the ads.</string>
+    <string name="plus_5_minutes">+ 5 minutes</string>
+    <string name="description">Description</string>
+
+    <string name="project_development_1">Advertising helps to develop the project!</string>
+    <string name="edit_question_2"> The ability to edit to appear after viewing the advertisement.</string>
+    <string name="sale_app">Wish there was more. Buy app without ads.</string>
+    <string name="banner_ad_statistic_id" translatable="false">ca-app-pub-1429321071349704/7412853417</string>
+    <string name="banner_ad_completedWin" translatable="false">ca-app-pub-1429321071349704/8140777383</string>
+    <string name="banner_ad_completedMissed" translatable="false">ca-app-pub-1429321071349704/2477333263</string>
+    <string name="banner_ad_completedWin_notif" translatable="false">ca-app-pub-1429321071349704/3451557483</string>
+    <string name="banner_ad_completedMissed_notif" translatable="false">ca-app-pub-1429321071349704/7666134667</string>
+    <string name="banner_ad_add" translatable="false">ca-app-pub-1429321071349704/5068795447</string>
+    <string name="banner_ad_mainactivity" translatable="false">ca-app-pub-1429321071349704/1372915405</string>
+    <string name="banner_ad_edit" translatable="false">ca-app-pub-1429321071349704/3650420920</string>
+
+    <string name="app_21_days" translatable="false">21 days</string>
+    <string name="vitamin_reminder" translatable="false">Reminder of vitamins</string>
+    <string name="other_app">Other apps</string>
+    <string name="linkApp21dey">https://play.google.com/store/apps/details?id=ru.appdevelopers.a21day</string>
+    <string name="linkAppMealReminder">https://play.google.com/store/apps/details?id=ru.appdevelopers.mealreminder</string>
+    <string name="title_activity_disable_ads" translatable="false">DisableAdsActivity</string>
+
+    <string name="disable_ads">Disable ads</string>
+    <string name="disable_ads_button">Disable ads</string>
+    <string name="connect_google_play">Connecting to Google Play</string>
+    <string name="ready_for_purchase">Ready to purchase</string>
+    <string name="purchase_complete">Purchase Complete</string>
+    <string name="thank_purchase">Thank you for your purchase</string>
+    <string name="erorr_purchase">Error</string>
+    <string name="ads_disabled">Ads disabled</string>
+    <string name="initiate_purchase">Could not initiate purchase</string>
+
+    //идентификаторы для анимации
+    <string name="transition_logo" translatable="false">transition:LOGO</string>
+    <string name="transition_name" translatable="false">transition:NAME</string>
+
+    //парсонализация рекламы
+    <string name="pers_ads" translatable="false">Personalization of advertising</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="title_activity_new_main">NewMainActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
